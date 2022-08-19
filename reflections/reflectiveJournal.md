@@ -10,5 +10,6 @@
 ### What is git?
 ### What is GitHub?
 
-## Week 3: Python
+## Week 3: Python 
+## Week 4: Art vs Programming
 
