@@ -13,7 +13,7 @@
 ## Week 3: Python 
 ## Week 4: Art vs Programming
 ## Week 5: Agile
-## Week 6:
+## Week 6: Python Koans
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
